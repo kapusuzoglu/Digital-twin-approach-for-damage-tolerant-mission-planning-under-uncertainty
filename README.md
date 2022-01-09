@@ -3,16 +3,16 @@ Karve, P. M., Guo, Y., Kapusuzoglu, B., Mahadevan, S., & Haile, M. A. (2020). Di
 
 Please, cite this repository using: 
 
-@article{karve2020digital,
-  title={Digital twin approach for damage-tolerant mission planning under uncertainty},
-  author={Karve, Pranav M and Guo, Yulin and Kapusuzoglu, Berkcan and Mahadevan, Sankaran and Haile, Mulugeta A},
-  journal={Engineering Fracture Mechanics},
-  volume={225},
-  pages={106766},
-  year={2020},
-  doi={10.1016/j.engfracmech.2019.106766},
-  publisher={Elsevier}
-}
+	@article{karve2020digital,
+	  title={Digital twin approach for damage-tolerant mission planning under uncertainty},
+	  author={Karve, Pranav M and Guo, Yulin and Kapusuzoglu, Berkcan and Mahadevan, Sankaran and Haile, Mulugeta A},
+	  journal={Engineering Fracture Mechanics},
+	  volume={225},
+	  pages={106766},
+	  year={2020},
+	  doi={10.1016/j.engfracmech.2019.106766},
+	  publisher={Elsevier}
+	}
 	
   
 # Digital-twin-approach-for-damage-tolerant-mission-planning-under-uncertainty
